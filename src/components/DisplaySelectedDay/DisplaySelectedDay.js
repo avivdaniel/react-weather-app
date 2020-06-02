@@ -17,7 +17,7 @@ class DisplaySelectedDay extends Component {
     }
     changeCToF() {
         this.setState({ isCelsius: false })
-    }
+    } git
     changeFToC() {
         this.setState({ isCelsius: true })
 
