@@ -24,7 +24,7 @@ font-size: 6rem;
 }
 
 .DisplaySelectedDay .DisplaySelectedDay-degreeSignContainer{
-    padding: 5px;
+padding: 5px;
 position: absolute;
 top: 10px;
 right: -30px;
@@ -33,5 +33,5 @@ font-size: 1.1rem;
 }
 
 .DisplaySelectedDay .DisplaySelectedDay-SelectedDegree {
-    border-bottom: solid 3px #AECFCD;  
+    border-bottom: solid 3px #AECFCD; 
 }
