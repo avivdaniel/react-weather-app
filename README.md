@@ -2,4 +2,4 @@
 
 bla
 
-![Alt image of result](./result.jpg?raw=true "Optional Title")
+![Alt image of result](./result.png?raw=true "Optional Title")
