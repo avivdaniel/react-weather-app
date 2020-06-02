@@ -2,4 +2,4 @@
 
 bla
 
-<!-- ![Image of result](https://github.com/avivdaniel/react-weather-app/raw/master/result.png) -->
+![Alt image of result](./result.jpg?raw=true "Optional Title")
